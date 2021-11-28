@@ -2,4 +2,4 @@
 
 # New Line Added
 
-Merge Conflict has been created
+Merge Conflict for sure!
